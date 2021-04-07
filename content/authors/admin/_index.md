@@ -1,6 +1,6 @@
 ---
-title: Jacopo A. Baggio
 role: Assistant Professor
+avatar_filename: baggio.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -10,19 +10,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:Jacopo.Baggio@ucf.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/jacopo_80?s=20
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=JVoOErgAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jacopo-baggio-01717638/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -37,13 +37,13 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
 superuser: true
 highlight_name: false
+title: Jacopo A. Baggio
+email: ""
 ---
+Jacopo is and Assitant Professor in the School of Politics, Security and International Affais at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research and Sustainable Systems Cluster.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University. His current research focuses on understanding and managing Social-Ecological systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
