@@ -29,11 +29,16 @@ experience:
     date_start: '2018-01-01'
     date_end: ''
 
-  - title: Professor
-    company: University X
+  - title: Assistant Professor
+    company:  Department of Environment and Society, College of Natural Resources, Utah State University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Logan
+    date_start: '2015-01-01'
+    date_end: '2018-01-01'
+  - title: Postdoctoral Research Associate at the Center for Behavior, Institutions and the Environment,
+    company:  Arizona State University
+    company_url: ''
+    location: Tempe
+    date_start: '2011-01-01'
+    date_end: '2015-01-01'
 ---
