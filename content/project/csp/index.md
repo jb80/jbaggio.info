@@ -4,7 +4,7 @@ date: 2021-04-07T18:07:33.912Z
 summary: test
 draft: false
 featured: false
-external_link: jBaggio.info/projects/csp
+external_link: /projects/csp
 links: []
 image:
   filename: featured
