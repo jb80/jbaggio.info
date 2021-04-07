@@ -4,6 +4,8 @@ date: 2021-04-07T18:07:33.912Z
 summary: This is the homepage for the Commons Synthesis Project (CSP)
 draft: false
 featured: true
+tags:
+  - NLP
 external_link: /project/csp
 links: []
 image:
