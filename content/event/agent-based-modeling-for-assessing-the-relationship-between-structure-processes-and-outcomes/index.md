@@ -6,8 +6,7 @@ location: Online Webinar
 date: 2020-12-17T20:12:41.862Z
 date_end: 2020-12-17T21:30:00.000Z
 all_day: true
-links:
-  - url: https://www.dropbox.com/s/oxyd988109q3coz/zoom_0.mp4?dl=0
+
 url_video: 'https://www.dropbox.com/s/oxyd988109q3coz/zoom_0.mp4?dl=0'
 
 event: Online Webinar
