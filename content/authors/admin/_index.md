@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jacopo-baggio-01717638/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Central Florida
+    url: https://sciences.ucf.edu/politics/
 education:
   courses:
     - course: PhD in Artificial Intelligence
