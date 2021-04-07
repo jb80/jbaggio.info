@@ -49,4 +49,4 @@ Jacopo is and Assitant Professor in the School of Politics, Security and Interna
 
 Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University. His current research focuses on understanding and managing Social-Ecological systems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Baggio-CV-2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/baggio-cv-2020.pdf" "newtab" >}}resumé{{< /staticref >}}.
