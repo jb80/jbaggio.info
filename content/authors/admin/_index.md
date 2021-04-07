@@ -28,15 +28,15 @@ organizations:
     url: https://sciences.ucf.edu/politics/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in International Development
+      institution: University of East Anglia
+      year: 2011
+    - course: MA in Development Economics
+      institution: University of East Anglia
+      year: 2007
+    - course: Bsc in Economics and Social Sciences
+      institution: University of Milano-Bicocca
+      year: 1999
 superuser: true
 highlight_name: false
 title: Jacopo A. Baggio
