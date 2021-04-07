@@ -6,10 +6,8 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Social-ecological systems
   - Network analysis
-  - Inter-dependencies between biodiversity
-  - food
-  - water
-  - energy and decision making.
+  - Inter-dependencies between biodiversity food water energy and decision
+    making.
 social:
   - icon: envelope
     icon_pack: fas
