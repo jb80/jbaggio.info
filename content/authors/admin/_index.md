@@ -4,9 +4,12 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Social-ecological systems
+  - Network analysis
+  - Inter-dependencies between biodiversity
+  - food
+  - water
+  - energy and decision making.
 social:
   - icon: envelope
     icon_pack: fas
