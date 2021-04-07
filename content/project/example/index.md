@@ -6,7 +6,7 @@ summary: An example of using the in-built project page.
 url_video: ""
 tags:
   - NLP
-external_link: jbaggio.info
+external_link: project/commons
 url_slides: ""
 title: Commons Synthesis Project
 links: []
