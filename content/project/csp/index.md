@@ -1,5 +1,5 @@
 ---
-title: CSP
+title: Commons Synthesis Project
 date: 2021-04-07T18:07:33.912Z
 summary: test
 draft: false
