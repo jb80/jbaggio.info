@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: ""
+subtitle: 'For a full list of publications click **[HERE](publication/)**'
 
 content:
   # Page type to display. E.g. post, talk, publication...
