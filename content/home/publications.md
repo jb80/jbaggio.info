@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'For a full list of publications click **[HERE](www.jbaggio.info/publication)**'
 
 content:
   # Page type to display. E.g. post, talk, publication...
