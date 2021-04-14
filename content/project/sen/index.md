@@ -5,7 +5,7 @@ summary: This is the homepage for the Social-Ecological Networks project
 draft: false
 featured: true
 tags:
-  - SEN
+  - SENA
 external_link: /project/sen
 links: []
 image:
