@@ -11,12 +11,16 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: CASE
+      tag: CASE
+    - name: CSP
+      tag: CSP
+    - name: SENA
+      tag: SENA
+    - name: Hazards
+      tag: Hazards   
 design:
-  columns: "2"
-  view: 2
+  columns: "4"
+  view: 4
   flip_alt_rows: false
 ---
