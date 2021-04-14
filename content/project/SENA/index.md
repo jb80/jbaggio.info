@@ -6,7 +6,7 @@ draft: false
 featured: true
 tags:
   - SENA
-external_link: /project/sen
+external_link: /project/SENA
 links: []
 image:
   filename: featured
