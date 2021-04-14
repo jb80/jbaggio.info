@@ -5,7 +5,7 @@ summary: This is the homepage for Projects related to Coastal Resilience
 draft: false
 featured: true
 tags:
-  - Cres
+  - CRES
 external_link: /project/Cres
 links: []
 image:
