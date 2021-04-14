@@ -17,8 +17,8 @@ content:
       tag: CSP
     - name: SENA
       tag: SENA
-    - name: Hazards
-      tag: Hazards   
+    - name: CRes
+      tag: CRes   
 design:
   columns: "2"
   view: 2
