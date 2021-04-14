@@ -6,7 +6,7 @@ draft: false
 featured: true
 tags:
   - CRES
-external_link: /project/Cres
+external_link: /project/CRES
 links: []
 image:
   filename: featured
