@@ -20,7 +20,7 @@ content:
     - name: Hazards
       tag: Hazards   
 design:
-  columns: "4"
-  view: 4
+  columns: "2"
+  view: 2
   flip_alt_rows: false
 ---
