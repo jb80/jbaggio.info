@@ -1,11 +1,11 @@
 ---
-title: Cognitive Abilities and Group Adaptability
+title: Cognitive Abilities and Group Adaptability in Social Ecological Systems
 date: 2021-04-07T18:07:33.912Z
 summary: This is the homepage for the Cognitive Abilities and Group Adaptability to social-ecological changes project
 draft: false
 featured: true
 tags:
-  - SEC
+  - CASE
 external_link: /project/caga
 links: []
 image:
