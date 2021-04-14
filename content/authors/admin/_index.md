@@ -79,7 +79,7 @@ email: "Jacopo.Baggio@ucf.edu"
 #user_groups:
 
 ---
-Jacopo is and Assitant Professor in the School of Politics, Security and International Affais at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research and Sustainable Systems Cluster.
+Jacopo is and Assistant Professor in the School of Politics, Security and International Affairs at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research and Sustainable Systems Cluster.
 
 Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University.
 
