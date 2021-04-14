@@ -6,7 +6,7 @@ draft: false
 featured: true
 tags:
   - Cres
-external_link: /project/caga
+external_link: /project/Cres
 links: []
 image:
   filename: featured
