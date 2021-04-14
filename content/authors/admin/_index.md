@@ -22,14 +22,14 @@ organizations:
     url: https://sciences.ucf.edu/politics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests relater to assessinig and analyzing dynamics of social ecological systems, common pool resources, resilence of coastal systems and the relationship between cognitive abilities and group adaptabilty to  socio-economic, political and environmental changes
 
 # Should the user's education and interests be displayed?
 display_education: true
 
 interests:
   - Dynamics of Social Ecological Systems
-  - Collective action and Common Pool resources
+  - Common Pool resources
   - Cognition and Collective Action
   - Resilience of Coastal Systems
 
