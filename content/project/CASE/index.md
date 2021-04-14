@@ -6,7 +6,7 @@ draft: false
 featured: true
 tags:
   - CASE
-external_link: /project/caga
+external_link: /project/CASE
 links: []
 image:
   filename: featured
