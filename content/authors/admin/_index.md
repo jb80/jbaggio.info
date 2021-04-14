@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Jacopo Baggio
-avatar_image: "user-full.png"
+avatar_image: avatar.jpg
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,53 +14,57 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+  - name: University of Central Florida
+    url: https://sciences.ucf.edu/politics/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Should the user's education and interests be displayed?
-display_education: false
+display_education: true
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Social-ecological systems
+  - Network analysis
+  - Inter-dependencies between biodiversity food water energy and decision
+    making.
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in International Development
+    institution: University of East Anglia
+    year: 2011
+  - course: MA in Development Economics
+    institution: University of East Anglia
+    year: 2007
+  - course: Bsc in Economics and Social Sciences
+    institution: University of Milano-Bicocca
+    year: 1999
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:Jacopo.Baggio@ucf.edu
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/jacopo_80?s=20
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=JVoOErgAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jb80
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jacopo-baggio-01717638/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,17 +72,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "Jacopo.Baggio@ucf.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+
 ---
+Jacopo is and Assitant Professor in the School of Politics, Security and International Affais at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research and Sustainable Systems Cluster.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-![reviews](../../img/certifacates.jpg)
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University. His current research focuses on understanding and managing Social-Ecological systems.
