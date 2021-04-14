@@ -6,7 +6,7 @@ draft: false
 featured: true
 tags:
   - CSP
-external_link: /project/csp
+external_link: /project/CSP
 links: []
 image:
   filename: featured
