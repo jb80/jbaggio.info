@@ -28,10 +28,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 display_education: true
 
 interests:
-  - Social-ecological systems
-  - Network analysis
-  - Inter-dependencies between biodiversity food water energy and decision
-    making.
+  - Dynamics of Social Ecological Systems
+  - Collective action and Common Pool resources
+  - Cognition and Collective Action
+  - Resilience of Coastal Systems
 
 education:
   courses:
@@ -81,6 +81,6 @@ email: "Jacopo.Baggio@ucf.edu"
 ---
 Jacopo is and Assitant Professor in the School of Politics, Security and International Affais at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research and Sustainable Systems Cluster.
 
-Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University. His current research focuses on understanding and managing Social-Ecological systems.
+Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University.
 
 You can find my updated CV [**Here**](https://jbaggio.info/uploads/resume.pdf).
