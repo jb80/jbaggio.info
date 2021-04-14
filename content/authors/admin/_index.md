@@ -1,10 +1,10 @@
 ---
-role: Assistant Professors
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Social-ecological systems
+  - Social-ecological systemss
   - Network analysis
   - Inter-dependencies between biodiversity food water energy and decision
     making.
