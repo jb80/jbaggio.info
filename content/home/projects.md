@@ -17,8 +17,8 @@ content:
       tag: CSP
     - name: SENA
       tag: SENA
-    - name: CRes
-      tag: CRes   
+    - name: CRES
+      tag: CRES   
 design:
   columns: "2"
   view: 2
