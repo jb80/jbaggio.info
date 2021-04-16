@@ -10,7 +10,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
----
 
 item:
   - title: Hello
@@ -41,3 +40,4 @@ item:
     overlay_color: '#333'
     overlay_img: ''
     overlay_filter: 0.5
+---
