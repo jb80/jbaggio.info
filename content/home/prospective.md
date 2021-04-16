@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: slider
 widget_id: prospective
 headless: true
 weight: 90
