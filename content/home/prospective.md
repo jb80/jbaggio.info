@@ -28,12 +28,12 @@ item:
     content: 'If you are an masters student looking to do research with me please click below.'
     align: left
     overlay_color: '#555'
-    overlay_img: 'ucf2.png'
+    overlay_img: 'ucf3.png'
     overlay_filter: 0.5
   - title: Right
     content: 'If you are an PhD student looking to do research with me please click below.'
     align: right
     overlay_color: '#333'
-    overlay_img: ''
+    overlay_img: 'ucf3.png'
     overlay_filter: 0.5
 ---
