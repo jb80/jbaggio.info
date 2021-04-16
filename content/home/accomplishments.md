@@ -11,7 +11,7 @@ weight: 60
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Grants and Awards'
-subtitle:
+subtitle: 'For a full list of Grants and Awards click **[HERE](post/grants-awards)**'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
