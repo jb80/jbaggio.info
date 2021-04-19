@@ -1,5 +1,5 @@
 ---
-title: This page will be dedicated to providing prospective students with information regarding research.
+title: Prospective Students
 subtitle:
 
 # Summary for listings and search engines
@@ -37,7 +37,7 @@ tags:
 categories:
 
 ---
-This page will serve as a point of information for students.
+This page will be dedicated to providing prospective students with information regarding research.
 
 # Heading one
 
@@ -47,4 +47,4 @@ This page will serve as a point of information for students.
 
 #### Heading four
 
-* Example info here.
+* Link to graduate program [here](https://sciences.ucf.edu/politics/graduate/).

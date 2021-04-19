@@ -37,14 +37,34 @@ tags:
 categories:
 
 ---
-This page will serve as a list of grants and awards received by Jacopo Baggio.
 
-# Heading one
+## Grants
 
-## Heading two
+##### 2019
+* NAS: co-PI with Chris Emmrich (PI), Thomas Wahl (co-PI), Kristy Lewis (co-PI), Sergio Alvarez (co-PI), Sonia Stephens (co-PI): The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure Resilience. ($3,403,554.00).
 
-### Heading three
+##### 2017
+* USDA-NIFA: co-PI with Kari Veblen (PI), Mark Brunson (co-PI) and David Pyke (co-PI): A preemptive rangeland restoration approach to improving biodiversity and provision of ecosystem services ($500,000)
 
-#### Heading four
+##### 2016
+* NSF INFEWS Track 1: co-PI for Utah State University sub-award ($423,899) with Christopher Lant (co-PI). Proposal PI: Ben Ruddell, Arizona State University: Mesoscale Data Fusion to Map and Model the U.S. FEW system (INFEWSion) ($3,000,000) (other co-Pi: Kevin R Gurney, Michael Hanemann, John L Sabo, Shade T Shutters, Tara J Troy, Alfonso I Mejia, Kristen Averyt, Megan Konar)
 
-* Example talk one here.
+* NSF IBSS: co-PI with Jacob Freeman (PI) and Thomas Coyle (co-PI): Diversity, Intelligence and Robust Cooperation in Social Ecological Systems ($465,893)
+
+##### 2015
+* SPARC Seed Grant from Utah State University, co-PI with Jordan Smith (PI) and Sarah Null (co-PI): Developing a coupled socio-hydrological agent-based model to examine the demand for and supply of outdoor recreation and tourism opportunities under future climate scenarios ($35,000)
+
+* Seed Grant from the Center for Biodiversity Outcomes, Arizona State University, co-PI with
+Michael Schoon, Candice Carr Kelman and Dara Wald: Collaborative Governance for Improving
+Biodiversity Outcomes ($7,000)
+
+* Consortium for Biosocial Complex Systems, co-PI with Michael Schoon, Ken Abbot, Erik Johnston and Jose Lobo: Working across Scales in the Governance of Social-Ecological Systems, seed grant ($1,000)
+
+##### 2014
+* Haynes Foundation, consultant, with Prof. Hal Nelson (PI): Power Struggles: Improving Energy Infrastructure Project Siting, Outcomes in the Los Angeles Region ($127,940)
+##### 2007
+* ESRC PhD scholarship (Economic and Social Research Council, UK)
+
+## Awards
+* 2017 Researcher of the Year -, SJ & Jessie E. Quinney College of Natural Resources Researcher of the
+Year, Utah State University
