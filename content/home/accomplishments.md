@@ -29,22 +29,24 @@ item:
   description: "Co-PI"
   organization: National Academy of Science
   organization_url:
-  title: The New First Line of Defence - Building Community Resilience through Residential Risk Disclosure Resilience
-  url: ""
-- certificate_url: https://www.edx.org
+  title: The New First Line of Defense - Building Community Resilience through Residential Risk Disclosure Resilience ($3,403,554.00)
+  url: https://jbaggio.info/project/cres/
+
+- certificate_url:
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  date_start: "2017-01-01"
+  description: "Co-PI"
+  organization: USDA-NIFA
+  organization_url:
+  title: A pre-emptive rangeland restoration approach to improving biodiversity and provision of ecosystem services ($500,000)
+  url:
+
+- certificate_url:
   date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  date_start: "2016-01-01"
+  description: "Co-PI"
+  organization: NSF INFEWS
+  organization_url:
+  title: Mesoscale Data Fusion to Map and Model the U.S. FEW system (INFEWSion) ($3,000,000)
+  url:
 ---
