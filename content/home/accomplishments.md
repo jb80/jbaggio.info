@@ -34,7 +34,7 @@ item:
 
 - certificate_url:
   date_end: ""
-  date_start: "2017-01-01"
+  date_start: "2017-08-01"
   description: "Co-PI"
   organization: USDA-NIFA
   organization_url:
