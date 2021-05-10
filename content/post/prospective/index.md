@@ -37,14 +37,7 @@ tags:
 categories:
 
 ---
-This page will be dedicated to providing prospective students with information regarding research.
+If you want to work with me please see the projects pages.
 
-# Heading one
-
-## Heading two
-
-### Heading three
-
-#### Heading four
 
 * Link to graduate program [here](https://sciences.ucf.edu/politics/graduate/).

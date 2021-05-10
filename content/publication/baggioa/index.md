@@ -18,7 +18,7 @@ tags: []
 categories: []
 date: '2019-12-01'
 lastmod: 2021-04-14T16:04:42-05:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -38,7 +38,7 @@ projects: []
 publishDate: '2021-04-14T21:04:42.081277Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Cognitive abilities underpin the capacity of individuals to build models of their environment and make decisions about how to govern resources. Here, we test the functional intelligences proposition that functionally diverse cognitive abilities within a group are critical to govern common pool resources. We assess the effect of two cognitive abilities, social and general intelligence, on group performance on a resource harvesting and management game involving either a negative or a positive disturbance to the resource base. Our results indicate that under improving conditions (positive disturbance) groups with higher general intelligence perform better. However, when conditions deteriorate (negative disturbance) groups with high competency in both general and social intelligence are less likely to deplete resources and harvest more. Thus, we propose that a functional diversity of cognitive abilities improves how effectively social groups govern common pool resources, especially when conditions deteriorate and groups need to re-evaluate and change their behaviors.'
 publication: '*Nature Communications*'
 url_pdf: http://dx.doi.org/10.1038/s41467-019-08549-8 http://www.nature.com/articles/s41467-019-08549-8
 doi: 10.1038/s41467-019-08549-8
