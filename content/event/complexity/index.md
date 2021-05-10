@@ -2,7 +2,7 @@
 title: Complexity, Diversity, Cognition and Group’s problem solving ability
 abstract:
 location: Online Webinar
-date: 2020-01-01T20:12:41.862Z
+date: 2020-11-05T20:12:41.862Z
 date_end: 2020-01-01T21:30:00.000Z
 all_day: true
 

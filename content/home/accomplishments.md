@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
-  date_start: "2019-01-01"
+  date_start: "2019-08-01"
   description: "Co-PI"
   organization: National Academy of Science
   organization_url:
@@ -43,7 +43,7 @@ item:
 
 - certificate_url:
   date_end: "2017-12-21"
-  date_start: "2016-01-01"
+  date_start: "2016-08-01"
   description: "Co-PI"
   organization: NSF INFEWS
   organization_url:

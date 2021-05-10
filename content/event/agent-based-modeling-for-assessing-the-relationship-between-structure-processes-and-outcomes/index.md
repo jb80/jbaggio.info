@@ -3,7 +3,7 @@ title: Agent-based modeling for assessing the relationship between
   structure-processes and outcomes
 abstract:
 location: Online Webinar
-date: 2020-12-17T20:12:41.862Z
+date: 2019-12-17T20:12:41.862Z
 date_end: 2020-12-17T21:30:00.000Z
 all_day: true
 
