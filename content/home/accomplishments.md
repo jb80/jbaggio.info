@@ -42,11 +42,11 @@ item:
   url:
 
 - certificate_url:
-  date_end: "2017-12-21"
+  date_end: "2021-11-30"
   date_start: "2016-08-01"
   description: "Co-PI"
-  organization: NSF INFEWS
+  organization: NSF IBSS
   organization_url:
-  title: Mesoscale Data Fusion to Map and Model the U.S. FEW system (INFEWSion) ($3,000,000)
-  url:
+  title: Diversity, Intelligence and Robust Cooperation in Social Ecological Systems ($465,893)
+  url:https://jbaggio.info/project/case/
 ---
