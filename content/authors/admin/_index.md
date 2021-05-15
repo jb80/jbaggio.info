@@ -43,6 +43,9 @@ education:
     year: 2007
   - course: Bsc in Economics and Social Sciences
     institution: University of Milano-Bicocca
+    year: 2005
+  - course: Maturità Classica
+    institution: Liceo Classico G. Parini
     year: 1999
 
 # Social/academia Networking
