@@ -34,11 +34,11 @@ experience:
     company_url: ''
     location: Logan
     date_start: '2015-08-01'
-    date_end: '2018-05-01'
+    date_end: '2018-07-01'
   - title: Postdoctoral Research Associate at the Center for Behavior, Institutions and the Environment,
     company:  Arizona State University
     company_url: ''
     location: Tempe
     date_start: '2011-08-01'
-    date_end: '2015-08-01'
+    date_end: '2015-07-01'
 ---
