@@ -42,7 +42,7 @@ item:
   url:
 
 - certificate_url:
-  date_end: "2021-11-30"
+  date_end: ""
   date_start: "2016-08-01"
   description: "Co-PI"
   organization: NSF IBSS
