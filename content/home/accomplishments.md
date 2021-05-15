@@ -48,5 +48,5 @@ item:
   organization: NSF IBSS
   organization_url:
   title: Diversity, Intelligence and Robust Cooperation in Social Ecological Systems ($465,893)
-  url:https://jbaggio.info/project/case/
+  url:
 ---
