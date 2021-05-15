@@ -39,7 +39,7 @@ item:
   organization: USDA-NIFA
   organization_url:
   title: A pre-emptive rangeland restoration approach to improving biodiversity and provision of ecosystem services ($500,000)
-  url:
+  url: https://jbaggio.info/project/sena/
 
 - certificate_url:
   date_end: ""
@@ -48,5 +48,5 @@ item:
   organization: NSF IBSS
   organization_url:
   title: Diversity, Intelligence and Robust Cooperation in Social Ecological Systems ($465,893)
-  url:
+  url: https://jbaggio.info/project/case/
 ---
