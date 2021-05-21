@@ -1,7 +1,7 @@
 ---
 title: Collaboratve Governance  
 date: 2021-04-07T18:07:33.912Z
-summary: This is the homepage for the Collaborative Governance project
+summary: This project focuses on studying adaptve collaborative management in social-ecological systems
 draft: false
 featured: true
 tags:
@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This page will serve as the home for the  Collaborative Governance project
+The project is led by Dr. Michael Schoon at Arizona State University (https://michaelschoon.com) and has work in progress website, courtesy of Dr. Sechindra Vallury (https://act-lab.weebly.com) that summarizes work done with collaborators in Colorado and Arizona. The focus of this project is on assessing what are the key underlyiing mechanisms that within different contexts foster adaptation and transformation in social-ecological systems. 
