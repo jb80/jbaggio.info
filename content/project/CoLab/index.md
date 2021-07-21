@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The project is led by Dr. Michael Schoon at Arizona State University (https://michaelschoon.com) and has work in progress website, courtesy of Dr. Sechindra Vallury (https://act-lab.weebly.com) that summarizes work done with collaborators in Colorado and Arizona. The focus of this project is on assessing what are the key underlyiing mechanisms that within different contexts foster adaptation and transformation in social-ecological systems. 
+The project is led by Dr. Michael Schoon at Arizona State University (https://michaelschoon.com) and has work in progress website, courtesy of Dr. Sechindra Vallury (https://act-lab.weebly.com) that summarizes work done with collaborators in Colorado and Arizona. The focus of this project is to assess the key underlyiing mechanisms that foster adaptation and transformation in social-ecological systems within different contexts. 
