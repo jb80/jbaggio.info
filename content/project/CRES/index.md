@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This page will serve as the home for the Coastal Resilience Projects, including the first line of defense related work
+The pace of environmental and social changes is accelerating and poses a serious challenge for societal adaptability throughout the world. Coastal and more general social-ecological resilience is key for future adaptation, transformation and mitigation so that human societies can be sustainable (environemntally, economically and socially). 
