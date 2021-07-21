@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This page will serve as the home for the social-ecological networks project
+Understanding interdpendencies between the social the technical and the ecological system through a network perspective allows us to better assess potential feedbacks and relationship between entities and systems. 
