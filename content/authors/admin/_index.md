@@ -92,6 +92,6 @@ Jacopo is an Associate Professor in the School of Politics, Security and Interna
 
 Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University.
 
-You can hear a bit more about me and my approach to research listening to this dialogue with Michael Cox and Courtney Hammond-Wagner for the InCommon Podcast [**Here**](here: https://www.incommonpodcast.org/podcast/053-multiple-methods-for-exploring-the-commons-with-jacopo-baggio/) 
+You can hear a bit more about me and my approach to research listening to this dialogue with Michael Cox and Courtney Hammond-Wagner for the InCommon Podcast [**here**](reference: https://www.incommonpodcast.org/podcast/053-multiple-methods-for-exploring-the-commons-with-jacopo-baggio/) 
 
 You can find my updated CV [**Here**](https://jbaggio.info/uploads/resume.pdf).
