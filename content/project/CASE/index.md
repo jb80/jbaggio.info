@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This page will serve as the home for the Cognitive Abilities and Group Adaptability to social-ecological changes project
+Climate change, covid-19, biodiversity loss are all current collective action problems for which technological solution are not sufficient. Individuals and groups must come together and collaborate and coordinate their action in order to adapt to climate change, reduce the socio-economic and health effects of epidemics, or mitigate biodiversity loss. The ability of individuals to both, assess and analyze a specific issue, as well as collaborate within and across groups is fundamental for adapting to current and future issues. This project aims then to advance our understanding of the interdependencies between individual cognitive abilities (e.g., ability of ndividuals to represent complex sytems, communicate effectively and reduce conflict within and between groups with different values/beliefs and , social networks, rules, norms and strategies (e.g., institutional arrangements) devised and implemented to manage natural resources as well as the build and natural infrastructure. 
