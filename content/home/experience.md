@@ -22,13 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Associate Professor
+    company:  School of Politics, Security, and International Affairs; core member, and National Center for Integrated Coastal Research, University of Central Florida
+    company_url: ''
+    location: Orlando
+    date_start: '2021-08-01'
+    date_end: ''
+  
   - title: Assistant Professor
     company:  School of Politics, Security, and International Affairs; core member, Sustainable Coastal System Cluster and National Center for Integrated Coastal Research, University of Central Florida
     company_url: ''
     location: Orlando
     date_start: '2018-08-01'
-    date_end: ''
-
+    date_end: '2021-07-31'
   - title: Assistant Professor
     company:  Department of Environment and Society, College of Natural Resources, Utah State University
     company_url: ''
