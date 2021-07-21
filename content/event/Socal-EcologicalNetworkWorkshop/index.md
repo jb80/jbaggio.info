@@ -1,5 +1,5 @@
 ---
-title: Social Ecological Network Analysis,.
+title: Social Ecological Network Analysis Workshop
 abstract:
 location: Online Webinar
 date: 2021-05-15T20:12:41.862Z
