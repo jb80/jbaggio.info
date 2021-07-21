@@ -39,6 +39,9 @@ categories:
 ---
 ## Invited Presentations, Seminars and Lectures
 
+####2021
+* Invited Workshop: Social Ecological Network Analysis, Webinar (onlne) IASC Water Commons Conference, May 20th.
+
 #### 2020
 * Invited Presentation: Vulnerability and Complexity of traditional livestock systems in Spain, Webinar (onlne) Center for Behavior, Institution and The Environment (CBIE) seminar series, Nov. 16th.
 
