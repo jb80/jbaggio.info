@@ -55,5 +55,5 @@ abstract: The past decade has seen an increase in interdisciplinary science and 
   decisions based on a combination of empirical experience and computer assisted reasoning.
   Moreover, this research contributes towards a theoretical understanding of the complex
   evolutionary mechanisms that govern a SES. II
-publication: '*Networks*'
+publication: '*PhD Thesis*'
 ---
