@@ -1,26 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Understanding the context of multifaceted collaborations for social-ecological
-  sustainability: a methodology for cross-case analysis'
+title: Exploring non-linear transition pathways in social-ecological systems
 subtitle: ''
 summary: ''
 authors:
-- Jessica Cockburn
+- Jean-denis Mathias
+- John M Anderies
+- Jacopo Baggio
+- Jennifer Hodbod
+- Sylvie Huet
+- Marco A Janssen
+- Manjana Milkoreit
 - Michael Schoon
-- Georgina Cundill
-- Cathy Robinson
-- Jaime A Aburto
-- Steven M Alexander
-- Jacopo A Baggio
-- Cecile Barnaud
-- Mollie Chapman
-- Marina Garcia Llorente
-- ' others'
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-04-16T09:25:42-05:00
+date: '2020-12-01'
+lastmod: 2021-04-14T16:04:40-05:00
 featured: false
 draft: false
 
@@ -37,10 +33,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["CoLab"]
-publishDate: '2021-04-16T14:25:42.067606Z'
+projects: ["STP"]
+publishDate: '2021-04-14T21:04:40.152960Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Ecology and Society*'
+publication: '*Scientific Reports*'
+url_pdf: http://dx.doi.org/10.1038/s41598-020-59713-w http://www.nature.com/articles/s41598-020-59713-w
+doi: 10.1038/s41598-020-59713-w
 ---

@@ -1,7 +1,7 @@
 ---
 title: Tipping Points in social-ecological systems
 date: 2021-04-07T18:07:33.912Z
-summary: Understanding and assessing tippng points in socal-ecological systems
+summary: This project focuses on understanding and assessing tippng points in socal-ecological systems
 draft: false
 featured: true
 tags:

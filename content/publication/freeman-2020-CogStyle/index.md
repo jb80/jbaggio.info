@@ -1,26 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Understanding the context of multifaceted collaborations for social-ecological
-  sustainability: a methodology for cross-case analysis'
+title: Cognitive Styles and Collective Action
 subtitle: ''
 summary: ''
 authors:
-- Jessica Cockburn
-- Michael Schoon
-- Georgina Cundill
-- Cathy Robinson
-- Jaime A Aburto
-- Steven M Alexander
-- Jacopo A Baggio
-- Cecile Barnaud
-- Mollie Chapman
-- Marina Garcia Llorente
-- ' others'
+- Jacob Freeman
+- Thomas R. Coyle
+- Jacopo A. Baggio
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2021-04-16T09:25:42-05:00
+lastmod: 2021-04-14T16:04:43-05:00
 featured: false
 draft: false
 
@@ -37,10 +28,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["CoLab"]
-publishDate: '2021-04-16T14:25:42.067606Z'
+projects: ["CASE"]
+publishDate: '2021-04-14T21:04:43.197523Z'
 publication_types:
-- '2'
+- '0'
 abstract: ''
-publication: '*Ecology and Society*'
+publication: '*Ann Arbor, MI: Inter-university Consortium for Political and Social
+  Research [distributor],*'
+doi: 10.3886/E110601V2
 ---

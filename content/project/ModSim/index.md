@@ -1,7 +1,7 @@
 ---
 title: Modelling and Simulation
 date: 2021-04-07T18:07:33.912Z
-summary: Modeling and Simulation of Complex Systems
+summary: Projects and papers related to assessing human-environment systems via modelling and simulation
 draft: false
 featured: true
 tags:

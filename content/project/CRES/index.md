@@ -1,7 +1,7 @@
 ---
-title: Coastal Resilience
+title: Resilience in Social Ecological Systems
 date: 2021-04-07T18:07:33.912Z
-summary: This is the homepage for Projects related to Coastal Resilience
+summary: This is an ensemble of projects focusing on resilience of social-ecological systems and coastal systems 
 draft: false
 featured: true
 tags:

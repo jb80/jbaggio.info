@@ -1,7 +1,7 @@
 ---
 title: Cognitive Abilities and Group Adaptability in Social Ecological Systems
 date: 2021-04-07T18:07:33.912Z
-summary: This is the homepage for the Cognitive Abilities and Group Adaptability to social-ecological changes project
+summary: This project focuses on assessing how cognitive, human build, natural and social infrastructure affect adaptation and resilience 
 draft: false
 featured: true
 tags:

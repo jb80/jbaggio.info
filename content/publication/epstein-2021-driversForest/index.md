@@ -1,26 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Understanding the context of multifaceted collaborations for social-ecological
-  sustainability: a methodology for cross-case analysis'
+title: Drivers of compliance monitoring in forest commons
 subtitle: ''
 summary: ''
 authors:
-- Jessica Cockburn
-- Michael Schoon
-- Georgina Cundill
-- Cathy Robinson
-- Jaime A Aburto
-- Steven M Alexander
-- Jacopo A Baggio
-- Cecile Barnaud
-- Mollie Chapman
-- Marina Garcia Llorente
-- ' others'
+- Graham Epstein
+- Georgina Gurney
+- Sivee Chawla
+- John M Anderies
+- Jacopo Baggio
+- Hita Unnikrishnan
+- Sergio Villamayor Tomas
+- Graeme S Cumming
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-04-16T09:25:42-05:00
+date: '2021-01-01'
+lastmod: 2021-04-16T09:25:41-05:00
 featured: false
 draft: false
 
@@ -37,10 +33,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["CoLab"]
-publishDate: '2021-04-16T14:25:42.067606Z'
+projects: ["CSP"]
+publishDate: '2021-04-16T14:25:41.627776Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Ecology and Society*'
+publication: '*Nature Sustainability*'
+doi: 10.1038/s41893-020-00673-4
 ---

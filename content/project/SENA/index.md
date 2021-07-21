@@ -1,7 +1,7 @@
 ---
 title: Social Ecological Networks
 date: 2021-04-07T18:07:33.912Z
-summary: This is the homepage for the Social-Ecological Networks project
+summary: These projects focus on the use of networks to analyze social-ecological systems
 draft: false
 featured: true
 tags:

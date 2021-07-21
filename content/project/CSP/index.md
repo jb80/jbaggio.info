@@ -1,7 +1,7 @@
 ---
 title: Commons Synthesis Project
 date: 2021-04-07T18:07:33.912Z
-summary: This is the homepage for the Commons Synthesis Project (CSP)
+summary: This project focuses on synthesizing and analyzing work on the commons (both in academic and non-academic journals)
 draft: false
 featured: true
 tags:

@@ -40,6 +40,9 @@ categories:
 
 ## Grants
 
+##### 2021
+*  UCF Seed Funding Program - IR: Interdisciplinary Research co-PI with Sergio Alvarez (PI), Thomas Wahl (co-PI), Chris Emrich (co-PI): Influences of coupled natural-human systems on sea-level rise adaptation pathways for Florida. ($67,500)
+
 ##### 2019
 * NAS: co-PI with Chris Emmrich (PI), Thomas Wahl (co-PI), Kristy Lewis (co-PI), Sergio Alvarez (co-PI), Sonia Stephens (co-PI): The New First Line of Defense: Building Community Resilience through Residential Risk Disclosure Resilience. ($3,403,554.00).
 
