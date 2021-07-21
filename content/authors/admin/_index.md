@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://sciences.ucf.edu/politics/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests relater to assessinig and analyzing dynamics of social ecological systems, common pool resources, resilence of coastal systems and the relationship between cognitive abilities and group adaptabilty to  socio-economic, political and environmental changes
+bio: My research interests relate to assessinig and analyzing dynamics of social ecological systems, common pool resources, resilence of coastal systems and the relationship between cognitive abilities and group adaptabilty to  socio-economic, political and environmental changes
 
 # Should the user's education and interests be displayed?
 display_education: true
@@ -82,7 +82,7 @@ email: "Jacopo.Baggio@ucf.edu"
 #user_groups:
 
 ---
-Jacopo is and Assistant Professor in the School of Politics, Security and International Affairs at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research and Sustainable Systems Cluster.
+Jacopo is an Associate Professor in the School of Politics, Security and International Affairs at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research and the Sustainable Systems Cluster.
 
 Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University.
 
