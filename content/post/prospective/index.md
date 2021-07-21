@@ -37,7 +37,7 @@ tags:
 categories:
 
 ---
-If you want to work with me please see the projects pages.
+If you want to work with me please see the projects pages and contact me via email.
 
 
 * Link to graduate program [here](https://sciences.ucf.edu/politics/graduate/).
