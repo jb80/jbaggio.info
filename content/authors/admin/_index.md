@@ -62,9 +62,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=JVoOErgAAAAJ&hl=en
- -  icon: orcid
+  - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-9616-4143
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Jacopo-Baggio
   - icon: github
     icon_pack: fab
     link: https://github.com/jb80
