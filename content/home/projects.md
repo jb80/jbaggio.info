@@ -22,7 +22,9 @@ content:
     - name: CoLab
       tag: CoLab   
     - name: STP
-      tag: STP    
+      tag: STP
+    - name: ModSim
+      tag: ModSim 
 design:
   columns: "2"
   view: 2
