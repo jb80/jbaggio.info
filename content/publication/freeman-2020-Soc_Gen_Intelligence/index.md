@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["CASE"]
 publishDate: '2021-04-14T21:04:43.692269Z'
 publication_types:
 - '2'
