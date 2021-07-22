@@ -1,7 +1,7 @@
 ---
 title: Cognitive Abilities and Group Adaptability in Social Ecological Systems
 date: 2021-04-07T18:07:33.912Z
-summary: This project focuses on assessing how cognitive, human build, natural and social infrastructure affect adaptation and resilience.
+summary: This project focuses on assessing how cognitive, human build, natural and social infrastructure affect adaptation and resilience. The project part on cognitive abilities was featured on [Access Utah](https://www.upr.org/post/iq-and-social-intelligence-wednesdays-access-utah) for Utah Public Radio.
 draft: false
 featured: true
 tags:
