@@ -2,7 +2,6 @@
 # Display name
 name: Jacopo Baggio
 avatar_image: avatar.jpg
-twitter_feed: <a class="twitter-timeline" data-width="300" data-height="400" data-theme="light" href="https://twitter.com/jacopo_80?ref_src=twsrc%5Etfw">Tweets by jacopo_80</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Username (this should match the folder name)
 authors:
@@ -76,6 +75,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jacopo-baggio-01717638/
+
+    feed: <a class="twitter-timeline" data-width="300" data-height="400" data-theme="light" href="https://twitter.com/jacopo_80?ref_src=twsrc%5Etfw">Tweets by jacopo_80</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
