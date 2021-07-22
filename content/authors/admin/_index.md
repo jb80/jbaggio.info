@@ -2,6 +2,9 @@
 # Display name
 name: Jacopo Baggio
 avatar_image: avatar.jpg
+widget: 'github.jb80.twfeed'
+headless: true
+
 # Username (this should match the folder name)
 authors:
 - admin
@@ -74,7 +77,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jacopo-baggio-01717638/
-  - widget: 'github.jb80.twfeed'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -90,7 +92,7 @@ email: "Jacopo.Baggio@ucf.edu"
 #user_groups:
 
 ---
-Jacopo is an Associate Professor in the School of Politics, Security and International Affairs at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research and the Sustainable Systems Cluster.
+Jacopo is an Associate Professor in the School of Politics, Security and International Affairs at the University of Central Florida. He is also a member of the National Center for Integrated Coastal Research.
 
 Previously he was Assistant Professor of human-environmental modelling at Utah State University, department of Environment and Society. He holds a BA in Economic and Social Sciences from the University of Milan Bicocca, a Master in Development Economics and a PhD in International Development from the University of East Anglia and funded by the UK Economic and Social Research Council (ESRC). He worked as a Postdoctoral research associate at the Center for Behavior, Institution and the Environment (CBIE), Arizona State University.
 
