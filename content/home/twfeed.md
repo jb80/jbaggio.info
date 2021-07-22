@@ -5,6 +5,6 @@ widget: 'github.jb80.twfeed'
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 20
 
 ---
