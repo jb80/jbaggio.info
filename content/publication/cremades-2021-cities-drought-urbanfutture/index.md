@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Guiding cities under increased droughts: The limits to sustainable urban futures
+title: 'Guiding cities under increased droughts: The limits to sustainable urban futures'
 subtitle: ''
 summary: ''
 authors:
