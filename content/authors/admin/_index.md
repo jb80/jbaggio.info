@@ -2,8 +2,9 @@
 # Display name
 name: Jacopo Baggio
 avatar_image: avatar.jpg
-widget: 'github.jb80.twfeed'
-headless: true
+
+<a class="twitter-timeline" data-width="300" data-height="400" data-theme="light" href="https://twitter.com/jacopo_80?ref_src=twsrc%5Etfw">Tweets by jacopo_80</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 # Username (this should match the folder name)
 authors:
