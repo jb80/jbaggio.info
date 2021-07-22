@@ -1,7 +1,7 @@
 ---
 title: Commons Synthesis Project
 date: 2021-04-07T18:07:33.912Z
-summary: This project focuses on synthesizing and analyzing work on the commons (both in academic and non-academic journals)
+summary: This project focuses on synthesizing and analyzing work on the commons (both in academic and non-academic journals). Here Dr. Epstein gives an introduction to the [**Common Synthesis Project**](https://www.incommonpodcast.org/podcast/the-commons-synthesis-project-applying-machine-learning-to-synthesize-knowledge-on-community-based-natural-resource-management)
 draft: false
 featured: true
 tags:
