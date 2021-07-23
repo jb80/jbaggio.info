@@ -10,7 +10,7 @@ headless: true
 weight: 25
 
 title: 'Recent Publications'
-subtitle: 'For a full list of Publications click **[HERE](publication/)** and for featured publication see the featured section **[Here](home/featured)'
+subtitle: 'For featured publications see the featured section **[Here](home/featured)**'
 
 content:
   # Page type to display. E.g. post, event, publication...
