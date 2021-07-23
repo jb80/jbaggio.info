@@ -1,5 +1,5 @@
 ---
-title: POS 7745: Advanced Quantitative Methods in Political Research
+title: POS 7745 Advanced Quantitative Methods in Political Research
 date: 2021-04-07T18:07:33.912Z
 summary: This course is designed to introduce students to advanced topics in the use of statistical methods as well as other
 methods and tools used to analyze issues in political science research. More specifically, in this course students will

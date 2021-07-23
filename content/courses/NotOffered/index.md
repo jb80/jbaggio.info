@@ -1,5 +1,5 @@
 ---
-title: Past Courses: Modelling Human-Environment Systems and Research Approaches in Environment and Society
+title: **Past Courses** Modelling Human-Environment Systems and Research Approaches in Environment and Society
 date: 2021-04-07T18:07:33.912Z
 summary: These courses are not offered currently at UCF by myself. They were taught at Utah State University between 2015 and 2018.
 

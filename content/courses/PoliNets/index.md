@@ -1,5 +1,5 @@
 ---
-title: POS 6729: Political Networks 
+title: POS 6729 Political Networks 
 date: 2021-04-07T18:07:33.912Z
 summary: The world is becoming increasingly complex and interlinked
 due to globalization and the advancements of technologies.
