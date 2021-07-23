@@ -6,7 +6,6 @@ draft: false
 featured: true
 tags:
   - IntroNets
-external_link: /courses/IntroNets
 links: []
 image:
   filename: featured
