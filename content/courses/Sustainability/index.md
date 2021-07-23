@@ -1,19 +1,7 @@
 ---
 title: PUP 3204 Sustainabiility
 date: 2021-04-07T18:07:33.912Z
-summary: Today the world is changing at an unprecedented rate. Changes are
-coming fast, due to environmental, technological and socio-economic
-changes. Sustainability, concerned with issues relating to the ability of
-present society to enjoy resources and levels of wealth, while not
-jeopardizing the ability of future generations to do so, is becoming more
-prominent.
-The objective of this course is giving students the ability to critically think
-around issues related to sustainability, increase knowledge on issues
-related to socio-economic, political, demographic processes as well as
-environmental ones concerning the sustainable use of resources, and be
-able to present concisely and clearly problems and potential solutions to
-current and possible future concerns related to “sustainability”.
-
+summary: Today the world is changing at an unprecedented rate. Changes are coming fast, due to environmental, technological and socio-economic changes. Sustainability, concerned with issues relating to the ability of present society to enjoy resources and levels of wealth, while not jeopardizing the ability of future generations to do so, is becoming more prominent. The objective of this course is giving students the ability to critically think around issues related to sustainability, increase knowledge on issues related to socio-economic, political, demographic processes as well as environmental ones concerning the sustainable use of resources, and be able to present concisely and clearly problems and potential solutions to current and possible future concerns related to “sustainability”.
 draft: false
 featured: true
 tags:
