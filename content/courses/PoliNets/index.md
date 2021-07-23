@@ -1,7 +1,7 @@
 ---
 title: POS 6729 Political Networks 
 date: 2021-04-07T18:07:33.912Z
-summary: The world is becoming increasingly complex and interlinked due to globalization and the advancements of technologies. In the last two decades, network science has gained traction and has been used to describe a wide variety of different phenomena in life and social sciences. In fact, it is well documented that structural properties of networks influence behaviors and outcomes in a wide range of systems: from social networks to food webs, from landscapes to power grids, from the internet to political and policy networks, not to mention epidemics and vaccines interactions, strategies and ideas, coalitions and teams.
+summary: The world is becoming increasingly complex and interlinked due to globalization and the advancements of technologies. In the last two decades, network science has gained traction and has been used to describe a wide variety of different phenomena in life and social sciences. In fact, it is well documented that structural properties of networks influence behaviors and outcomes in a wide range of systems ':' from social networks to food webs, from landscapes to power grids, from the internet to political and policy networks, not to mention epidemics and vaccines interactions, strategies and ideas, coalitions and teams.
 draft: false
 featured: true
 tags:
