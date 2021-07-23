@@ -6,7 +6,6 @@ draft: false
 featured: true
 tags:
   - Sust
-external_link: /courses/Sustainability
 links: []
 image:
   filename: featured

@@ -6,7 +6,6 @@ draft: false
 featured: true
 tags:
   - PolNets
-external_link: /courses/PoliNets
 links: []
 image:
   filename: featured

@@ -6,7 +6,6 @@ draft: false
 featured: true
 tags:
   - Quant
-external_link: /courses/QuantMeth
 links: []
 image:
   filename: featured

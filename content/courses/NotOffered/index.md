@@ -7,7 +7,6 @@ draft: false
 featured: true
 tags:
   - OldCourses
-external_link: /courses/NotOffered
 links: []
 image:
   filename: featured
