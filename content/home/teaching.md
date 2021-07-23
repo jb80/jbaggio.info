@@ -1,12 +1,12 @@
 ---
 widget: portfolio
-widget_id: courses
+widget_id: projects
 headless: true
 weight: 40
 title: Teaching
 subtitle: ""
 content:
-  page_type: project
+  page_type: courses
   filter_default: 0
   filter_button:
     - name: All
