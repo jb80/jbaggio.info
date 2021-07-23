@@ -10,7 +10,7 @@ headless: true
 weight: 25
 
 title: 'Recent Publications'
-subtitle: 'For featured publications see the featured section **[Here](../featured/)**'
+subtitle: 'For featured publications scroll down to the featured section'
 
 content:
   # Page type to display. E.g. post, event, publication...
