@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 65
 
 title: 'Recent & Upcoming Talks'
 subtitle: 'For a full list of Talks and Presentations click **[HERE](post/talks)**'
