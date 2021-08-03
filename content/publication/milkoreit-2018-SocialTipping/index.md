@@ -43,7 +43,7 @@ image:
 projects: ["STP"]
 publishDate: '2021-04-14T21:04:42.405070Z'
 publication_types:
-- '0'
+- '2'
 abstract: The term tipping point has experienced explosive popularity across multiple
   disciplines over the last decade. Research on social-ecological systems (SES) has
   contributed to the growth and diversity of the term's use. The diverse uses of the
