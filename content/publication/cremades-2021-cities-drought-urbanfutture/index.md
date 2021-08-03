@@ -21,7 +21,7 @@ tags:
 - '"urban future"'
 - '"nexus"'
 categories: []
-date: '2021-11-01'
+date: '2021-07-31'
 lastmod: 2021-04-14T16:04:39-05:00
 featured: false
 draft: false
