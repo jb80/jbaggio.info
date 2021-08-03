@@ -30,7 +30,7 @@ image:
 projects: ["ModSim"]
 publishDate: '2021-04-14T21:04:45.804691Z'
 publication_types:
-- '5'
+- '6'
 abstract: Agent-based modeling and numerical simulations are means that facilitate
   exploring the structural and dynamic characteristics of systems that may prove intractable
   with analytical methods. This chapter examines what are complex adaptive systems,
