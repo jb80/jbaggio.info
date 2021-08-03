@@ -35,7 +35,7 @@ authors:
 - Thondhlana, Gladman
 - Trimble, Micaela
 - Whittaker, Dane
-- tags:
+tags:
 - '"context"'
 - '"collaborative governance"'
 categories: []

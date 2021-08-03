@@ -49,7 +49,7 @@ image:
 projects: ["CSP"]
 publishDate: '2021-04-14T21:04:47.299494Z'
 publication_types:
-- '0'
+- '2'
 abstract: Institutions are vital to the sustainability of social-ecological systems,
   balancing individual and group interests and coordinating responses to change. Ecological
   decline and social conflict in many places, however, indicate that our understanding
