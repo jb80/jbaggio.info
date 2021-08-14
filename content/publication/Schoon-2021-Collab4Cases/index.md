@@ -50,6 +50,6 @@ publication_types:
 - '2'
 abstract: The increasing scale and interconnection of many environmental challenges – from climate change to land use – has resulted in the need to collaborate across borders and boundaries of all types. Traditional centralized, top-down and sectoral approaches to governance of single-issue areas or species within social-ecological systems often have limited potential to alleviate issues that go beyond their jurisdiction. As a result, collaborative governance approaches have come to the forefront. A great deal of past research has examined the conditions under which collaborative efforts are likely to achieve desired outcomes. However, few studies have analyzed how the means to achieve successful collaborative outcomes differ based on context when examined across multiple studies. In this research, we begin to chart a means for doing this. Building onto a Context-Mechanism-Outcome (CMO) Framework, we provide a coding manual to analyse how contextual variables mediate the effects of mechan- ism variables on outcomes of the collaborative governance of social-ecological systems. Through the examination of four cases, we provide a proof-of-concept assessment and show the utility of the CMO framework and coding manual to draw comparisons across cases for understanding how collaborative outcomes are contingent on the social-ecological context.
 publication: '*Ecosystems and People*'
-url_pdf: http://stacks.iop.org/1748-9326/13/i=3/a=033005?key=crossref.431f996f1a30522f64f3b3d5201fe605
-doi: 10.1088/1748-9326/aaaa75
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/26395916.2021.1946593
+doi: 10.1080/26395916.2021.1946593
 ---
