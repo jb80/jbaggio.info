@@ -13,23 +13,10 @@ authors:
 - Aburto, Jaime
 - Alexander, Steve
 - Baggio, Jacopo
+- Brady, Ute
 - Cockburn, Jessica
 - Cundill, Georgina
-- Lopez, Gustavo Garcia
-- Robinson, Catherine
-- Thondhlana, Gladman
-- Trimble, Micaela
-- Schoon, Michael
-- Chapman, Mollie
-- Loos, Jacqueline
-- Speranza, Chinwe Ifejika
-- Kelman, Candice Carr
-- Aburto, Jaime
-- Alexander, Steve
-- Baggio, Jacopo
-- Brady, Ute
-- Cundill, Georgina
-- Lopez, Gustavo Garcia
+- Garcia Lopez, Gustavo
 - Hill, Rosemary
 - Robinson, Catherine
 - Thondhlana, Gladman
