@@ -9,7 +9,7 @@ height: 500px
 
 item:
   - title: Prospective Students
-    content: 'If you are a student looking to do research with me please click below.'
+    content: 'If you are interested in working with me click the link below! (where you can also find information on current and past students and post-docs).'
     # Choose `center`, `left`, or `right` alignment.
     align: center
     # Overlay a color or image (optional).
