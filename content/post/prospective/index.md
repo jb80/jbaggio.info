@@ -37,7 +37,43 @@ tags:
 categories:
 
 ---
-If you want to work with me please see the projects pages and contact me via email.
-
+If you are interested in working with me, please check the project pages and contact me via email 
 
 * Link to graduate program [here](https://sciences.ucf.edu/politics/graduate/).
+
+
+## Current Postdoctoral Research Associates:
+**Dr. Graham Epstein** is working on the Commons Synthesis Projects for advancing the understanding of institutions and their role in our ability to manage natural resources and adapt to change.
+More on Dr. Epstein work can be found [here](https://sciences.ucf.edu/politics/person/graham-epstein/) and here you can find his [google scholar page](https://scholar.google.com/citations?user=S4JEmxgAAAAJ&hl=en)
+
+**Dr. Joshua Lambert** is working on the Commons Synthesis Project as well as on analysing policy documents to assess the co-evolution of natural disasters and policies in the gulf of mexico region.
+More about his work and expertise can be found [here](https://jelambert.com) and here you can find his [google scholar page](https://scholar.google.com/citations?user=3sQSen4AAAAJ&hl=en)
+
+## Current PhD Students
+**Jennifer Obado-Joel** is working on migration, climate change and security as well as conflict and cooperation in groups 
+
+##Current Students (role in parenthesis):
+Felicia Gordian (Research assistant for the Commons Synthesis Project and for policy document analysis)
+Devyn Escalanti (Security Studies Program - PhD committee member)
+Erika Ricci (Security Studies Program - PhD committee member)
+Ozgur Kayaalp (Security Studies Program - PhD committee member)
+Frida Bahja (Rosen College of Hospitality - PhD committee member)
+Bruce Miller (Industrial Engineering - PhD committee member)
+Lux Miranda (Industrial Engineering - MA committee member)
+
+## Past Students
+Riana Gayle (MA in Environment and Society), worked for [Utah Public Radio](https://www.upr.org/term/riana-gayle#stream/0) and now works as a data analyst for the Western Rural Development Center.
+
+##Past students i have worked with (role in parenthesis)
+2019: Gwendwr Meredith (committee member) – PhD in Human Dimensions of Ecosystem Science and Management
+2019: Ryan James (committee member) – MS in Water Resources Engineering
+2018: Lyndi Perry (committee member) – MS in Landscape and Urban Planning
+2018: Jeffrey Height (committee member) – MS in Watershed Sciences, Utah State University, 
+2018: Jose Camilo Fagua (committee member) – PhD in Wildland Resources, Utah State University
+2016 – 2018 Samantha Marie Nabity – Major in Anthropology, (Supervisor) – Undergraduate Research Assistant. Samantha presented a paper at a major international conference (XVI Biennial IASC Conference). 
+2016 – 2017 Tam Nguyen – PhD in Computer Science,  (Supervisor) –  Graduate Research Assistant 
+2016 – 2017 Erica Hawvermale  – Major in Anthropology, (Supervisor) –  Undergraduate Research Assistant.
+
+
+
+
