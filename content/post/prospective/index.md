@@ -44,7 +44,7 @@ If you are interested in working with me, please check the project pages and con
 
 ## Current Postdoctoral Research Associates:
 **Dr. Graham Epstein** is working on the Commons Synthesis Projects for advancing the understanding of institutions and their role in our ability to manage natural resources and adapt to change.
-More on Dr. Epstein work can be found [here](https://sciences.ucf.edu/politics/person/graham-epstein/) and here you can find his [google scholar page](https://scholar.google.com/citations?user=S4JEmxgAAAAJ&hl=en)
+More about his work can be found [here](https://sciences.ucf.edu/politics/person/graham-epstein/) and here you can find his [google scholar page](https://scholar.google.com/citations?user=S4JEmxgAAAAJ&hl=en)
 
 **Dr. Joshua Lambert** is working on the Commons Synthesis Project as well as on analysing policy documents to assess the co-evolution of natural disasters and policies in the gulf of mexico region.
 More about his work and expertise can be found [here](https://jelambert.com) and here you can find his [google scholar page](https://scholar.google.com/citations?user=3sQSen4AAAAJ&hl=en)
