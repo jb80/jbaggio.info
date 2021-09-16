@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Landscape Engineering Impacts the Long-Term Stability of Agricultural Populations
+title: 'Landscape Engineering Impacts the Long-Term Stability of Agricultural Populations'
 subtitle: ''
 summary: ''
 authors:
