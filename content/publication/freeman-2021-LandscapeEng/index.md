@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Landscape Engineering Impacts the Long-Term Stability of Agricultural Populations'
+title: Landscape Engineering Impacts the Long-Term Stability of Agricultural Populations
 subtitle: ''
 summary: ''
 authors:
@@ -43,7 +43,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["CRes"]
+projects: ["CRES"]
 publishDate: '2021-09-14T21:04:39.707913Z'
 publication_types:
 - '2'
