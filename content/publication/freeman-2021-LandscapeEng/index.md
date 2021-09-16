@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Landscape Engineering Impacts the Long-Term Stability of Agricultural Populations"
+title: Landscape Engineering Impacts the Long-Term Stability of Agricultural Populations
 subtitle: ''
 summary: ''
 authors:
 - Jacob Freeman
-- John M Anderies  Gil, Adolfo F. and Byers, David and Gayo, Eugenia and Latorre, Claudio
+- John M Anderies
 - Noelle G Beckman
 - Erick Robinson
 - Jacopo A Baggio
