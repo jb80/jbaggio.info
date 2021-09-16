@@ -25,7 +25,7 @@ tags:
 - '"Human population ecology"'
 - '"Landscape Engineering"'
 categories: []
-date: '2020-09-01'
+date: '2021-09-01'
 lastmod: 2021-04-14T16:04:39-05:00
 featured: false
 draft: false
