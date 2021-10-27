@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'La resilienza nei sistemi ecologici e sociali: connettività, diversità resilienza e retroazione'
+title: 'La resilienza nei sistemi ecologici e sociali: connettività, diversità e retroazione'
 subtitle: ''
 summary: ''
 authors:
