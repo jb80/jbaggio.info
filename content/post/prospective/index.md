@@ -41,13 +41,17 @@ If you are interested in working with me, please check the project pages and con
 
 * Link to graduate program [here](https://sciences.ucf.edu/politics/graduate/).
 
+## Current PostDoctoral Research Associates:
+I am not currently hiring postdoctoral research associates
 
-## Current Postdoctoral Research Associates:
-**Dr. Graham Epstein** is working on the Commons Synthesis Projects for advancing the understanding of institutions and their role in our ability to manage natural resources and adapt to change.
-More about his work can be found [here](https://sciences.ucf.edu/politics/person/graham-epstein/) and here you can find his [google scholar page](https://scholar.google.com/citations?user=S4JEmxgAAAAJ&hl=en)
+## Past Postdoctoral Research Associates:
+**Dr. Graham Epstein** worked on the Commons Synthesis Projects for advancing the understanding of institutions and their role in our ability to manage natural resources and adapt to change.
+More about his work can be found on his [google scholar page](https://scholar.google.com/citations?user=S4JEmxgAAAAJ&hl=en)
+Dr. Epstein is now a Research Associate working with Prof. [Dustin Garrick](https://www.dustingarrick.com) at the University of Waterloo, Ontario, Canada. 
 
-**Dr. Joshua Lambert** is working on the Commons Synthesis Project as well as on analysing policy documents to assess the co-evolution of natural disasters and policies in the gulf of mexico region.
-More about his work and expertise can be found [here](https://jelambert.com) and here you can find his [google scholar page](https://scholar.google.com/citations?user=3sQSen4AAAAJ&hl=en)
+**Dr. Joshua Lambert** worked on the Commons Synthesis Project as well as on analysing policy documents to assess the co-evolution of natural disasters and policies in the gulf of mexico region.
+More about his work and expertise can be found [here](https://jelambert.com) and here you can find his [google scholar page](https://scholar.google.com/citations?user=3sQSen4AAAAJ&hl=en).
+Dr. Lambert is now a machine learning engineer at Spark Cognition Government Services.
 
 ## Current PhD Students
 **Jennifer Obado-Joel** is working on migration, climate change and security as well as conflict and cooperation in groups 

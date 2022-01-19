@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: 'Recent & Upcoming Talks'
-subtitle: 'For a full list of Talks and Presentations click **[HERE](post/talks)**'
+subtitle: 'For a full list of Invited and Conference Presentations click **[HERE](post/talks)**'
 
 content:
   # Page type to display. E.g. post, event, publication...

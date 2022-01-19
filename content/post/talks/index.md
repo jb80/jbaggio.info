@@ -39,6 +39,9 @@ categories:
 ---
 ## Invited Presentations, Seminars and Lectures
 
+#### 2022
+* Invited Presentation: The interplay between individuals, groups and the environment: harnessing the benefits of diversity to address socio-environmental governance challenges, Webinar (online) University of Miami,  Department of Geography and Sustainable Development, Feb 18th.
+
 #### 2021
 * Invited Workshop: Social Ecological Network Analysis, Webinar (onlne) IASC Water Commons Conference, May 20th.
 

@@ -1,7 +1,7 @@
 ---
-title: Complexity, Diversity, Cognition and Group’s problem solving ability
-abstract:
-location: Online Webinar
+title: Workshop on Social Ecological Network Analysis
+abstract: Introduction to social-ecological network analysis.
+location: Online Workshop
 date: 2020-11-05T20:12:41.862Z
 date_end: 2020-01-01T21:30:00.000Z
 all_day: true
@@ -18,5 +18,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-Webinar (online), Mathematical Biology Seminar Series, UCF, November 5th.
+International Association for the Study of the Commons (IASC): Water Commons Conference, May 20th.
