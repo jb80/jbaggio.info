@@ -55,7 +55,9 @@ Dr. Lambert is now a machine learning engineer.
 
 ## Current PhD Students
 **Jennifer Obado-Joel** is working on women economic empowerment, climate change and conflict in West Africa 
+
 **Devyn Escalanti** is working on the relationship between epidemics and conflict in SubSaharan Africa
+
 **Rafael Hurtado** is working on the relationship between changes in ecosystem functions and services and their interaction with communities cultural values, nutrition and security in the Caribbean
 
 ## Current Students (role in parenthesis):
