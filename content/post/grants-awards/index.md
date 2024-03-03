@@ -40,6 +40,9 @@ categories:
 
 ## Grants
 
+##### 2024
+* NSF DRMS: PI at UCF ($347,829). Collaborative Research: Group cognition, stress arousal, and environment feedbacks in decision making and adaptation under uncertainty. ($656,184).
+
 ##### 2021
 *  UCF Seed Funding Program - IR: Interdisciplinary Research co-PI with Sergio Alvarez (PI), Thomas Wahl (co-PI), Chris Emrich (co-PI): Influences of coupled natural-human systems on sea-level rise adaptation pathways for Florida. ($67,500)
 

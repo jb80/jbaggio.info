@@ -11,6 +11,10 @@ content:
   filter_button:
     - name: All
       tag: "*"
+    - name: HonsSustainability
+      tag: Hsust
+    - name: GlobEnvPolitics
+      tag: Gep
     - name: Sustainability
       tag: Sust
     - name: Quant Meth

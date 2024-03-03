@@ -1,7 +1,8 @@
 ---
-title: Cognitive Abilities and Group Adaptability in Social Ecological Systems
+title: Cognitive Abilities and Group Adaptability to changing conditions
 date: 2021-04-07T18:07:33.912Z
 summary: This project focuses on assessing how cognitive, human build, natural and social infrastructure affect adaptation and resilience. The project part on cognitive abilities was featured on [Access Utah](https://www.upr.org/post/iq-and-social-intelligence-wednesdays-access-utah) for Utah Public Radio.
+This project has been financed by an NSF IBSS grant in 2015 and by an NSF DRMS grant in 2024.
 draft: false
 featured: true
 tags:

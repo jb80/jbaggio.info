@@ -39,7 +39,20 @@ categories:
 ---
 ## Invited Presentations, Seminars and Lectures
 
-#### 2022
+#### 2024	
+* Invited presentation: The role of networks in group decision making in uncertain environments for the Panel on  Socioecological Network Approaches to Environmental Governance and Collective Action Problems in Agriculture, Workshop on the Workshop (WOW) 7, Bloomington, Indiana, June 19th – June 21st. 
+
+#### 2023 	
+* Invited Keynote:  Group ability to solve problems of increasing social and environmental complexity. International Nature Inspires Creativity Engineers (N.I.C.E.) Conference, Nice, France, June 20th – 22nd
+
+* Invited participant: Blue Justice working group to assess the relationship between marine protected areas and social-ecological outcomes, Montpellier, France, June 12th - June 16th
+
+#### 2022 
+	
+* Invited participant: Water, Sustainability and the Commons: Pathways to Water and Food Security, Eulora, Canada, June 13th – June 16th 
+
+* Invited participant: Blue Justice working group to assess the relationship between marine protected areas and social-ecological outcomes, Montpellier, France, May 30th - June 3rd.
+
 * Invited Presentation: The interplay between individuals, groups and the environment: harnessing the benefits of diversity to address socio-environmental governance challenges, Webinar (online) University of Miami,  Department of Geography and Sustainable Development, Feb 18th.
 
 #### 2021
@@ -101,6 +114,20 @@ categories:
 * Invited presentation: Claremont Graduate University. Agent Based Modelling of lab experimental data: Cooperation in asymmetric commons dilemma. Claremont, California, USA.
 
 ## Conferences, Workshops participation and Presentations
+
+#### 2024
+*	Baggio, J.A .#Epstein G., #Lambert, J., *#Obado-Joel, J., **Gordian, F., Assessing the effect of Ostrom Institutional Design Principles on conflict, inequality and resource conditions via recent advances in natural language processing, Southern Political Science Association (SPSA) anual conference, New Orleans, Louisiana, January (9 – 13)
+
+* Vallury, S., Baggio, J.A. Social inequalities, institutional change and the persistence of institutions, Annual Midwest Political Science Association Conference (MPSA), Chicago, Illinois, April (4 – 7)
+
+#### 2023 	
+* Erfurth, S., Wildemeersch, M., Baggio, J., Kumar, R., Garrick, D. Governing Common Pool Resources in Fragile Political Systems: Modelling Behaviour, Institutions, and Social-Ecological Dynamics, EGU 2023, Vienna, Austria, (April 23-28)
+
+* Andrews, H., Baggio, J.A. Understanding Climate Change Perception: The Structure of Socio-Psychological Networks in Climate Change Beliefs and Behaviors 2023 Southern Political Science Association Annual Conference St Pete Beach, FL, USA (Jan. 11-14) 
+
+#### 2022 
+* Morales Reyes, Z., Baggio, J.A., Sánchez Zapata, J.A., Pérez Ibarra, I. Vulnerabilidad y complejidad de los sistemas ganaderos tradicionales en España, paper presented at the XIV Congreso Español de Sociología 2022, Murcia, Spain, (June 29 – July 2)
+
 
 #### 2020
 * Baggio, J.A., Cognitive abilities for collective action: from individuals to nation states. Paper and at the 3rd Workshop on Common Pool Resources: Working Together, Arizona State University, Tempe USA (March 11-13).
