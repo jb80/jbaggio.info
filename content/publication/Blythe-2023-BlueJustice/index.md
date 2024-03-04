@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Harnessing the benefits of diversity to address socio-environmental governance challenges
+title: Blue justice: A review of emerging scholarship and resistance movements
 subtitle: ''
 summary: ''
 authors:

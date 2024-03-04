@@ -1,24 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Boundary object or bridging concept? A citation network analysis of resilience
+title: Goldilocks forbs: survival is highest outside—but not too far outside—of Wyoming big sagebrush canopies
 subtitle: ''
 summary: ''
 authors:
-- Jacopo A. Baggio
-- Katrina Brown
-- Denis Hellebrandt
+- Sofia Koutzoukis
+- David A. Pyke
+- Mark W. Brunson
+- Jacopo A. Baggio 
+- Carmen Calzado‐Martinez
+- Kari E. Veblen
 tags:
-- '"Bibliometric analysis"'
-- '"Boundary object"'
-- '"Bridging"'
-- '"Citation"'
-- '"Interdisciplinarity"'
-- '"Network"'
-- '"Resilience"'
-- '"resilience"'
+- '"Restorations"'
+- '"Cheat-Grass"'
+- '"Intermountain West"'
 categories: []
-date: '2015-01-01'
+date: '2023-04-09'
 lastmod: 2021-04-14T16:04:41-05:00
 featured: false
 draft: false
@@ -40,30 +38,8 @@ projects: ["CRES"]
 publishDate: '2021-04-14T21:04:41.258705Z'
 publication_types:
 - '2'
-abstract: Many recent studies observe the increasing importance, influence, and analysis
-  of resilience as a concept to understand the capacity of a system or individual
-  to respond to change. The term has achieved prominence in diverse scientific fields,
-  as well as public discourse and policy arenas. As a result, resilience has been
-  referred to as a boundary object or a bridging concept that is able to facilitate
-  communication and understanding across disciplines, coordinate groups of actors
-  or stakeholders, and build consensus around particular policy issues. We present
-  a network analysis of bibliometric data to understand the extent to which resilience
-  can be considered as a boundary object or a bridging concept in terms of its links
-  across disciplines and scientific fields. We analyzed 994 papers and 35,952 citations
-  between them to reveal the connectedness and links between and within fields. We
-  analyzed the network according to different fields, modules, and sub-fields, showing
-  a highly clustered citation network. Analyzing betweenness allowed us to identify
-  how particular papers bridge across fields and how different fields are linked.
-  With the exception of a few specific papers, most papers cite exclusively within
-  their own field. We conclude that resilience is to an extent a boundary object because
-  there are shared understandings across diverse disciplines and fields. However,
-  it is more limited as a bridging concept because the citations across fields are
-  concentrated among particular disciplines and papers, so the distinct fields do
-  not widely or routinely refer to each other. There are some signs of resilience
-  being used as an interdisciplinary concept to bridge scientific fields, particularly
-  in social- ecological systems, which may itself constitute an emerging sub-field.
-publication: '*Ecology and Society*'
-url_pdf: /citations?view_op=view_citation&continue=/scholar%253Fhl%253Den%2526as_sdt%253D0,45%2526scilib%253D1&citilm=1&citation_for_view=JVoOErgAAAAJ:WAzi4Gm8nLoC&hl=en&oi=p
-  http://www.ecologyandsociety.org/vol20/iss2/art2/
-doi: 10.5751/ES-07484-200202
+abstract: 'In arid and semiarid systems, positive effects of nurse shrubs generally occur immediately underneath and around shrub canopies, creating microsites that can be targeted to promote plant establishment in restoration settings. Alternatively, the best microsites may occur in the interspace zone immediately surrounding nurse shrubs if positive abiotic effects extend beyond nurse shrub canopy boundaries and if competition with nurse shrubs is reduced in that zone. In the Intermountain West, U.S.A., we investigated survival of transplanted herbaceous seedlings at different distances from Wyoming big sagebrush (Artemisia tridentata ssp. wyomingensis) canopies. We planted two native perennial forb species, Munro's globemallow (Sphaeralcea munroana) and common yarrow (Achillea millefolium), and two native perennial grass species, bluebunch wheatgrass (Pseudoroegneria spicata) and bottlebrush squirreltail (Elymus elymoides), at four distances from sagebrush canopies at six sites across the Intermountain West, repeated across 2 years. Under above-normal precipitation, proximity to sagebrush influenced first-year survival of the forb, but not grass, species. Globemallow and yarrow survival were highest mid-way between the canopy dripline and maximum interspace distance between neighboring sagebrush plants. Ground cover characteristics and globemallow survival covaried with respect to distance from shrub, suggesting ground cover characteristics as indicators of suitable planting microsites. Under drier conditions, survival of all species was low and unaffected by distance from canopies. Our results demonstrate the value of fine-tuning the canopy-interspace paradigm to more carefully consider how plant performance may differ across zones within the interspace region between plants, especially when the goal is to maximize plant establishment in nondrought years.'
+publication: '*Restoration Ecology*'
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/rec.13919
+doi: 10.1111/rec.13919
 ---
