@@ -23,6 +23,16 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+
+- certificate_url:
+  date_end: ""
+  date_start: "2024-03-01"
+  description: "PI"
+  organization: NSF DRMS
+  organization_url:
+  title: Group cognition, stress arousal, and environment feedbacks in decision making and adaptation under uncertainty ($347,829.00)
+  url: https://jbaggio.info/project/case/
+
 - certificate_url:
   date_end: ""
   date_start: "2019-08-01"
@@ -39,7 +49,7 @@ item:
   organization: USDA-NIFA
   organization_url:
   title: A pre-emptive rangeland restoration approach to improving biodiversity and provision of ecosystem services ($500,000)
-  url: https://jbaggio.info/project/sena/
+  url: https://jbaggio.info/project/cres/
 
 - certificate_url:
   date_end: ""
