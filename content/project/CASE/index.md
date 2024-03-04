@@ -1,7 +1,7 @@
 ---
 title: Cognitive Abilities and Group Adaptability to changing conditions
 date: 2021-04-07T18:07:33.912Z
-summary: This project focuses on assessing how cognitive, human build, natural and social infrastructure affect adaptation and resilience.
+summary: This project focuses on assessing how the interaction between cognitive, human build, natural and social infrastructure affect adaptation and resilience.
 draft: false
 featured: true
 tags:
