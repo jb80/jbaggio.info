@@ -10,12 +10,7 @@ authors:
 - Sofia Koutzoukis
 - Jacopo A. Baggio 
 - Kari E. Veblen
-
-tags:
-- '"Restorations"'
-- '"Cheat-Grass"'
-- '"Barriers to innovation"'
-- '"Intermountain West"'
+tags:[]
 categories: []
 date: '2023-03-10'
 lastmod: 2021-04-14T16:04:41-05:00

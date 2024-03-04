@@ -11,12 +11,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: HonsSustainability
+    - name: Honors Sust
       tag: Hsust
-    - name: GlobEnvPolitics
-      tag: Gep
     - name: Sustainability
       tag: Sust
+    - name: Glob Env Politics
+      tag: Gep
     - name: Quant Meth
       tag: Quant
     - name: Pol Nets 

@@ -5,7 +5,7 @@ summary: Understanding issues related to global environmental politics employing
 draft: false
 featured: true
 tags:
-  - Sust
+  - Gep
 links: []
 image:
   filename: featured
@@ -13,7 +13,7 @@ image:
   preview_only: false
 ---
 Global Environmental Politics INR 4350 is an upper-level undergraduate course taught online. 
-Taught occationally at UCF
+Taught occasionally at UCF
 
 ## Course Description
 This course aims to equip students with theories and frameworks that are apt to understand 

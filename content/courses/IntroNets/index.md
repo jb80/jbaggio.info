@@ -15,7 +15,7 @@ image:
 Approaches to Network Analysis and Applications IDS 6606 is a graduate level course.
 It is co-taught with Dr. Wang in Computer Science and it is the core course for the
 Certificate in Network Analysis and Applications at UCF. 
-It is in development and will be taught from Spring 2022 (projected)
+It is in development and taught every two years in the Spring.
 
 ## Course Description
 This course is co-organized and taught by a team of social and computer scientists in order to highlight the inherent interdisciplinary nature of network analysis. 

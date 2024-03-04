@@ -5,7 +5,7 @@ summary: Today the world is changing at an unprecedented rate. Changes are comin
 draft: false
 featured: true
 tags:
-  - Sust
+  - Hsust
 links: []
 image:
   filename: featured
