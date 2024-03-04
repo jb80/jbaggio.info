@@ -5,7 +5,7 @@ title: 'Scale up urban agriculture to leverage transformative food systems chang
 subtitle: ''
 summary: ''
 authors:
-Jiangxiao Qiu
+- Jiangxiao Qiu
 - Hui Zhao
 - Ni-Bin Chang
 - Chloe B. Wardropper
