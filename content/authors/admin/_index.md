@@ -29,10 +29,12 @@ bio: My research interests relate to assessinig and analyzing dynamics of social
 display_education: true
 
 interests:
-  - Dynamics of Social Ecological Systems
   - Common Pool resources
-  - Cognition and Collective Action
-  - Resilience of Coastal Systems
+  - Individual cognition and group adaptability to change
+  - Collective Action
+  - Networks and Agent Based Modelling
+  - Resilience, Adaptation and Transformation in Social Ecological Systems
+  - Dynamics of Social Ecological Systems
 
 education:
   courses:
