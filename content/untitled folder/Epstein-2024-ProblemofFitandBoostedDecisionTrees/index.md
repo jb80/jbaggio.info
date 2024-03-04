@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Problem of Institutional Fit: Uncovering Patterns with Boosted Decision Trees
-
+title: 'The Problem of Institutional Fit: Uncovering Patterns with Boosted Decision Trees'
 subtitle: ''
 summary: ''
 authors:

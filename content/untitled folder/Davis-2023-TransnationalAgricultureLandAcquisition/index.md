@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Transnational agricultural land acquisitions threaten biodiversity in the Global South
+title: 'Transnational agricultural land acquisitions threaten biodiversity in the Global South'
 subtitle: ''
 summary: ''
 authors:

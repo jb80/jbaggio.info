@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Proof of concept study using GPS-based tracking data to build agent-based models of visitors’ off-trail behavior in nature-based tourism settings
+title: 'Proof of concept study using GPS-based tracking data to build agent-based models of visitors’ off-trail behavior in nature-based tourism settings'
 subtitle: ''
 summary: ''
 authors:

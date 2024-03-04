@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Addressing barriers to proactive restoration of at‐risk sagebrush communities: a causal layered analysis
+title: 'Addressing barriers to proactive restoration of at‐risk sagebrush communities: a causal layered analysis'
 subtitle: ''
 summary: ''
 authors:

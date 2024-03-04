@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Blue justice: A review of emerging scholarship and resistance movements
+title: 'Blue justice: A review of emerging scholarship and resistance movements'
 subtitle: ''
 summary: ''
 authors:

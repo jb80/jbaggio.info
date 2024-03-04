@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Infrastructure and the Energy Use of Human Polities
+title: 'Infrastructure and the Energy Use of Human Polities'
 subtitle: ''
 summary: ''
 authors:
