@@ -38,6 +38,14 @@ categories:
 
 ---
 
+## Awards
+
+* 2023 Outstanding Research Award - School of Politics, Security and International Affairs, University of Central Florida
+
+*	2023 Research Incentive Award (RIA) - College of Science, University of Central Florida
+
+* 2017 Researcher of the Year - SJ & Jessie E. Quinney College of Natural Resources Researcher of the Year, Utah State University
+
 ## Grants
 
 ##### 2024
@@ -71,6 +79,4 @@ Biodiversity Outcomes ($7,000)
 ##### 2007
 * ESRC PhD scholarship (Economic and Social Research Council, UK)
 
-## Awards
-* 2017 Researcher of the Year -, SJ & Jessie E. Quinney College of Natural Resources Researcher of the
-Year, Utah State University
+
