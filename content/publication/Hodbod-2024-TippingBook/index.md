@@ -12,7 +12,7 @@ authors:
 - Michael Schoon
 tags: []
 categories: []
-date: '2024-24-03'
+date: '2024-03-24'
 lastmod: 2021-04-14T16:04:40-05:00
 featured: false
 draft: false
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ["STP"]
-publishDate: '2021-04-14T21:04:40.152960Z'
+publishDate: '2021-04-14T21:04:45.804691Z'
 publication_types:
 - '6'
 abstract: 'Recent interdisciplinary study has led to significant conceptual advances and a broad empirical evidence base for ecological and climate tipping points. However, the literature has yet to present convincing empirical case studies of social tipping, as the data-driven identification of social tipping points remains a challenge. Arguing that the barriers to such empirical research are largely methodological in nature, we develop methodological guidance to identify social tipping processes in social-ecological system case studies, based on four key elements—multiple stable states, self-reinforcing feedback dynamics, abruptness, and limited reversibility. We apply our approach to food system changes linked to the Flint Water Crisis between 2010 and 2020. We identify seven principles that can simultaneously serve as a seven-step process for social tipping point analysis in any social-ecological system. We highlight two major challenges: the limited availability of high quality, longitudinal social data, and the possibility that value-driven social processes tend to curb abruptness and non-linear change. Utilizing the seven principles to study historical, ongoing, or anticipated cases of social tipping processes could facilitate a deeper understanding of the conditions and limitations of non-linear social change and, therefore, inform efforts to facilitate change towards more sustainable futures.'
