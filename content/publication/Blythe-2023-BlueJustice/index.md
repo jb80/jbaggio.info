@@ -23,10 +23,10 @@ authors:
 - Jacqueline Lau
 - Natali Lazzari
 - Shauna L. Mahajan
-- Sangeeta Mangubhai,
+- Sangeeta Mangubhai
 - Josheena Naggea
 - Rachel A. Turner
-- Noelia Zafra-Calvo},
+- Noelia Zafra-Calvo
 
 tags: []
 categories: []
