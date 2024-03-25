@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Principles for a Case Study Approach to Social Tipping Points'
+title: "Principles for a Case Study Approach to Social Tipping Points"
 subtitle: ''
 summary: ''
 authors:
